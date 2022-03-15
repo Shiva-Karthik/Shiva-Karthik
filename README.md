@@ -1,9 +1,15 @@
-## Hi 👋 I'm Saravanakumar JN 
-- I'm a **Learner** | **Web Developer** | **Programmer**. 
-- I'm skilled at **MERN** based web app development, alongside upskilling my **data structure and algorithms** knowledge. 
-- Interested in **exploring new technologies**. 
-- Currently working as an SDE - I @ CoinSwitch Kuber.
-<!-- - Checkout my [resume](https://drive.google.com/file/d/1LCu_MCYhcG5WTcRIIpPuKWfhgyjaiiAo/view?usp=sharing) -->
+<h1 align="center">Hi 👋, I'm Shivakarthik</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+- 🌱 I’m currently learning **Full Stack Web Development**
+
+- 💬 Ask me about **react**
+
+- 📫 How to reach me **karthikkonathala6@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ervzanOfq4bfW72obihXU6fH_NQGwyqw/view?usp=sharing](https://drive.google.com/file/d/1ervzanOfq4bfW72obihXU6fH_NQGwyqw/view?usp=sharing)
+
+
 
 <br />
 
@@ -20,7 +26,6 @@
   ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-  ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)&nbsp;
 
 </div>
 
@@ -38,13 +43,13 @@
   />
 </a> -->
 <img
-  alt="SaravanakumarJN's Github Stats"
-  src="https://github-readme-stats.vercel.app/api?username=saravanakumarjn"
+  alt="Shivakarthik's Github Stats"
+  src="https://github-readme-stats.vercel.app/api?username=shiva-karthik&show_icons=true&locale=en"
   height="207px"
 />
 <img
-  alt="SaravanakumarJN's Top Languages"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=saravanakumarjn"
+  alt="Shivakarthik's Top Languages"
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=shiva-karthik&show_icons=true&locale=en&layout=compact"
   height="207px"
 />
 
@@ -53,12 +58,12 @@
 ## :earth_asia: Connect with me...
 
 <p>
-  <a href="https://www.linkedin.com/in/saravanakumar-nagaraj/">
+  <a href="https://www.linkedin.com/in/karthik-konathala">
     <img
       src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     />
   </a>
-  <a href="mailto:kumarjnsaravana@gmail.com">
+  <a href="mailto:karthikkonathala6@gmail.com">
     <img
       src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     />
