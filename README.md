@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **karthikkonathala6@gmail.com**
+- Interested in **exploring new technologies**. 
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ervzanOfq4bfW72obihXU6fH_NQGwyqw/view?usp=sharing](https://drive.google.com/file/d/1ervzanOfq4bfW72obihXU6fH_NQGwyqw/view?usp=sharing)
 
@@ -42,6 +42,7 @@
     src="https://github-readme-streak-stats.herokuapp.com/?user=SaravanakumarJN"
   />
 </a> -->
+<div style="display: flex">
 <img
   alt="Shivakarthik's Github Stats"
   src="https://github-readme-stats.vercel.app/api?username=shiva-karthik&show_icons=true&locale=en"
@@ -52,6 +53,7 @@
   src="https://github-readme-stats.vercel.app/api/top-langs?username=shiva-karthik&show_icons=true&locale=en&layout=compact"
   height="207px"
 />
+</div>
 
 <br />
 
