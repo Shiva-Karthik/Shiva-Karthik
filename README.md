@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **react**
 
-- Interested in **exploring new technologies**. 
+- 🔭 Interested in **exploring new technologies**. 
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ervzanOfq4bfW72obihXU6fH_NQGwyqw/view?usp=sharing](https://drive.google.com/file/d/1ervzanOfq4bfW72obihXU6fH_NQGwyqw/view?usp=sharing)
 
