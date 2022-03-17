@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shivakarthik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
-
-- 💬 Ask me about **react**
+- 🌱 I’m Currently learning **MERN** stack at MASAI school.
 
 - 🔭 Interested in **exploring new technologies**. 
+
+- ❤️ I like to watch **tech. videos** and playing **E-sports** more often.
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ervzanOfq4bfW72obihXU6fH_NQGwyqw/view?usp=sharing](https://drive.google.com/file/d/1ervzanOfq4bfW72obihXU6fH_NQGwyqw/view?usp=sharing)
 
