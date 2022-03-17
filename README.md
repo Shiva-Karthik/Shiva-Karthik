@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivakarthik</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40" width="40"/>, I'm Shivakarthik</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 - 🌱 I’m Currently learning **MERN** stack at MASAI school.
