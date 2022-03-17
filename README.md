@@ -57,7 +57,8 @@
 
 <br />
 
-## :earth_asia: Connect with me...
+## :earth_asia: Connect with me...<span><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="50px" width="100px"/></span>
+
 
 <p>
   <a href="https://www.linkedin.com/in/karthik-konathala" target="_blank">
